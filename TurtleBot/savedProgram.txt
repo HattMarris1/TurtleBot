@@ -1,0 +1,11 @@
+repeat 360
+forward 100
+turnl 149
+forward 200
+turnr 173
+forward 300
+turnl 139
+forward 400
+turnr 157
+forward 500
+turnl 131
